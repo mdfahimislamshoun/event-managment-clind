@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "image": "https://i.ibb.co/D4XxqJ1/images-6.jpg",
+      "description": "I couldn't be happier with the event management provided by this team. They made my wedding day absolutely perfect, from planning to execution. It was a dream come true!"
+    },
+    {
+      "id": 2,
+      "name": "David Smith",
+      "image": "https://i.ibb.co/HdPH31Y/images-5.jpg",
+      "description": "The event management company exceeded my expectations. They paid attention to every detail and made sure our corporate event went smoothly. Highly recommended!"
+    },
+    {
+      "id": 3,
+      "name": "Sophia Anderson",
+      "image": "https://i.ibb.co/Lvpg2Nz/images-10.jpg",
+      "description": "I hired this event management company for my anniversary party, and they made it incredibly special. They took care of every detail, leaving us to enjoy the moment."
+    },
+    {
+      "id": 4,
+      "name": "Matthew Wilson",
+      "image": "https://i.ibb.co/64L96Kt/images-4.jpg",
+      "description": "The event management company exceeded my expectations. They paid attention to every detail and made sure our corporate event went smoothly. Highly recommended!"
+    },
+    {
+      "id": 5,
+      "name": "Olivia Parker",
+      "image": "https://i.ibb.co/YpZhf1Q/images-9.jpg",
+      "description": "I was blown away by the creativity of this event management team. They transformed our venue into a magical wonderland for our gala dinner. Absolutely stunning!"
+    },
+    {
+      "id": 6,
+      "name": "William Brown",
+      "image": "https://i.ibb.co/fQHHrXX/images-1.jpg",
+      "description": "As the premier event planning company in the area, these people know that Every assignment they take is an event to remember. Our company has been using their services for years."
+    },
+    {
+      "id": 7,
+      "name": "Emily Davis",
+      "image": "https://i.ibb.co/9c5gKq9/images-7.jpg",
+      "description": "I couldn't be happier with the event management provided by this team. They made my wedding day absolutely perfect, from planning to execution. It was a dream come true!"
+    },
+    {
+      "id": 8,
+      "name": "James Martin",
+      "image": "https://i.ibb.co/BjRGq3v/images-2.jpg",
+      "description": "The event management company exceeded my expectations. They paid attention to every detail and made sure our corporate event went smoothly. Highly recommended!"
+    },
+    {
+      "id": 9,
+      "name": "Ava Clark",
+      "image": "https://i.ibb.co/m6rtx0F/images-8.jpg",
+      "description": "As the premier event planning company in the area, these people know that Every assignment they take is an event to remember. Our company has been using their services for years."
+    },
+    {
+      "id": 10,
+      "name": "Noah Turner",
+      "image": "https://i.ibb.co/CQj8WYc/images-3.jpg",
+      "description": "I hired this event management company for my anniversary party, and they made it incredibly special. They took care of every detail, leaving us to enjoy the moment."
+    },
+    {
+      "id": 11,
+      "name": "Lily Hernandez",
+      "image": "https://i.ibb.co/bN3x5MH/images-12.jpg",
+      "description": "The event management company exceeded my expectations. They paid attention to every detail and made sure our corporate event went smoothly. Highly recommended!"
+    },
+    {
+      "id": 12,
+      "name": "Ethan White",
+      "image": "https://i.ibb.co/xj5gdKB/images.jpg",
+      "description": "I couldn't be happier with the event management provided by this team. They made my wedding day absolutely perfect, from planning to execution. It was a dream come true!"
+    }
+  ]
+   

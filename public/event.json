@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "title": "Weddings",
+      "description": "Make your dream wedding a reality with our comprehensive wedding planning service. We specialize in crafting unforgettable moments that reflect your unique love story. From selecting the perfect venue to coordinating floral arrangements and catering, we handle every detail with precision. Our team's dedication ensures a stress-free experience, allowing you to savor every moment of your special day. we offering flexible Prices options to suit your budget and preferences.",
+      "price": " $15,000",
+      "image": "https://i.ibb.co/grMKZYB/bride-groom-pose-large-circle-lilac-garden.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Birthday Parties",
+      "description": "Celebrate another year of life with a birthday party that leaves a lasting impression. Our experienced event planners take care of everything, from choosing the ideal theme to organizing entertainment and managing logistics. Whether it's an intimate gathering or a grand extravaganza, we ensure your vision comes to life. we offering options to fit various party sizes and styles.",
+      "price": "$ $2,000",
+      "image": "https://i.ibb.co/V2tsM9M/happy-friends-with-birthday-cake.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Anniversaries",
+      "description": "Commemorate your love and commitment with a meticulously planned anniversary celebration. Our team specializes in creating romantic and memorable experiences tailored to your unique journey together. We handle every aspect, from venue selection to elegant decor and gourmet cuisine. Our anniversary planning services ensure you relish this special milestone without the stress of planning.",
+      "price": " $3,000",
+      "image": "https://i.ibb.co/vjN2Wv8/6707.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Engagement Parties",
+      "description": " Announce your engagement in style with our engagement party planning service. We curate an enchanting atmosphere that sets the perfect stage for your big announcement. Our dedicated planners manage all the details, from thematic decor to delectable refreshments. Prices for our engagement party services.we offering flexibility to align with your preferences and budget.",
+      "price": " $2,500",
+      "image": "https://i.ibb.co/85HtyvP/groom-putting-ring-bride-s-finger.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Retirement Parties",
+      "description": " Bid farewell to your successful career with a memorable retirement party. Our event experts help you celebrate this significant life transition. We take care of planning, ensuring a stress-free experience for you and your guests. Whether you prefer an intimate gathering or a lively bash, our retirement party planning services cater to your unique preferences.",
+      "price": " $2,000",
+      "image": "https://i.ibb.co/Ypqzyyq/senior-people-celebrating-together.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Baby Shower",
+      "description": "Welcome the arrival of your precious little one with a beautifully orchestrated baby shower. Our dedicated service handles every detail, from choosing the perfect theme to organizing games and coordinating with vendors. Your day is designed to be memorable, with our team ensuring a seamless experience. we offering customizable options to suit your preferences and budget.",
+      "price": " $1,500",
+      "image": "https://i.ibb.co/tB1G1jt/aboodi-vesakaran-ox-P3bl3x-QPI-unsplash.jpg"
+    }
+  ]
+  

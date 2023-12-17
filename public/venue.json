@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/2ZS8SDW/download-2.jpg",
+      "name": "Seaside Resort",
+      "capacity": 300,
+      "accommodation": "Luxury beachfront suites",
+      "boat_access": true,
+      "description": "Seaside Resort offers a breathtaking coastal setting for your events. With a capacity of 300, it's ideal for grand celebrations. Our venue features luxury beachfront suites, perfect for a serene retreat. Boat access is available for a unique arrival experience."
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/S6rpGNb/images-3.jpg",
+      "name": "Riverside Lodge",
+      "capacity": 450,
+      "accommodation": "Cozy cabins",
+      "boat_access": true,
+      "description": "Riverside Lodge is nestled by a tranquil river, providing a rustic charm for gatherings of up to 150 guests. Cozy cabins offer comfortable accommodations, and boat access adds an element of adventure to your event."
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/F6v0x8N/istockphoto-169978580-612x612.jpg",
+      "name": "Garden Pavilion",
+      "capacity": 500,
+      "accommodation": "N/A",
+      "boat_access": false,
+      "description": "Garden Pavilion is a lush oasis for outdoor events. With a capacity of 200, it's perfect for garden weddings. While there's no on-site accommodation, the serene ambiance and picturesque gardens make it an excellent choice."
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/FxZPFSf/images.jpg",
+      "name": "Mountain Chalet",
+      "capacity": 350,
+      "accommodation": "Mountain-view rooms",
+      "boat_access": false,
+      "description": "Mountain Chalet offers an intimate alpine setting for up to 100 guests. Guests can enjoy stunning mountain views from the comfort of their rooms. Boat access is not available."
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/gtrkwh6/vila.jpg",
+      "name": "Lakefront Villa",
+      "capacity": 450,
+      "accommodation": "Villa suites",
+      "boat_access": true,
+      "description": "Lakefront Villa is a picturesque venue with a capacity of 250, overlooking a tranquil lake. Villa suites provide a luxurious stay, and boat access adds a touch of elegance to your event."
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/1Tmx53F/urban.jpg",
+      "name": "Urban Loft",
+      "capacity": 520,
+      "accommodation": "N/A",
+      "boat_access": false,
+      "description": "Urban Loft is a chic and modern space for gatherings of up to 120 guests. While it doesn't offer accommodations, its contemporary design and cityscape views make it a trendy choice for urban events."
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/wgSjNRZ/barn.jpg",
+      "name": "Countryside Barn",
+      "capacity": 480,
+      "accommodation": "Rustic barn rooms",
+      "boat_access": false,
+      "description": "Countryside Barn exudes rustic charm, accommodating up to 180 guests. Rustic barn rooms provide a cozy stay for attendees. Boat access is not available, but the countryside setting is idyllic."
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/8BnmkZ7/images-4.jpg",
+      "name": "Island Retreat",
+      "capacity": 600,
+      "accommodation": "Island cottages",
+      "boat_access": true,
+      "description": "Island Retreat offers an exclusive island experience for events, with a spacious capacity of 400. Guests can stay in charming island cottages, and boat access makes arrival and departure a memorable part of the experience."
+    }
+  ]
+  

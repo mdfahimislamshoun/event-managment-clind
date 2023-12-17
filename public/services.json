@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Catering and Decor",
+      "title": "Elegant Catering & Decor Services",
+      "description": "Transform your event with our catering and decor services. From exquisite dishes to stunning decorations, we create a visual and culinary masterpiece.",
+      "image": "https://i.ibb.co/fYsz1Nv/luxurious-dinner-hall-with-large-crystal-chandelier.jpg",
+      "button": "Learn More"
+    },
+    {
+      "id": 2,
+      "name": "Floral",
+      "title": "Exquisite Floral Arrangements",
+      "description": "Add elegance with our floral arrangements. Our experts create breathtaking displays to enhance your special day's beauty and ambiance.",
+      "image": "https://i.ibb.co/mq89B90/pink-roses-bouquet-with-free-space-text-copy-space.jpg",
+      "button": "Learn More"
+    },
+    {
+      "id": 3,
+      "name": "Photo, Video & Audio",
+      "title": "Capturing Precious Moments",
+      "description": "Capture memories with our photography, videography, and audio services. Relive your event through our lens and crystal-clear sound.",
+      "image": "https://i.ibb.co/znYWNn2/close-up-sound-engineer-studio-with-equipment.jpg",
+      "button": "Learn More"
+    },
+    {
+      "id": 4,
+      "name": "Invitation Cards",
+      "title": "Custom Invitation Cards",
+      "description": "Personalize your event with beautifully crafted invitation cards. Choose from diverse designs and styles to set the perfect tone.",
+      "image": "https://i.ibb.co/sWf7mW1/Invitation-1024x576.jpg",
+      "button": "Learn More"
+    },
+    {
+      "id": 5,
+      "name": "Entertainment",
+      "title": "Entertainment Extravaganza",
+      "description": "Elevate your event with talented performers, DJs, and interactive activities. We guarantee a fun and exciting experience for your guests.",
+      "image": "https://i.ibb.co/PTK02y4/happy-people-celebrating-having-fun.jpg",
+      "button": "Learn More"
+    },
+    {
+      "id": 6,
+      "name": "Venue Selection",
+      "title": "Finding the Perfect Venue",
+      "description": "Discover your ideal event venue with our expert selection service. Let us help you choose the perfect setting for an unforgettable day.",
+      "image": "https://i.ibb.co/1MK1WHp/beach-wedding-ceremony-during-daytime-169198-1.jpg",
+      "button": "Learn More"
+    }
+  ]
+
